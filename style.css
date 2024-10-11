@@ -1,0 +1,25 @@
+div.static
+{
+    border: 3px solid lightcoral;
+    position: static;
+}
+div.relative
+{
+    border: 3px solid lightcyan;
+    position: relative;
+}
+div.fixed
+{
+    border: 3px solid lightblue;
+    position: fixed;
+}
+div.absolute
+{
+    border: 3px solid lightgoldenrodyellow;
+    position: absolute;
+}
+div.sticky
+{
+    border: 3px solid lightgrey;
+    position: sticky;
+}
